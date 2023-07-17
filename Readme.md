@@ -1,4 +1,4 @@
-## Graphical User Interface wrapper for Image treatment Module IO IMAGE
+## Graphical User Interface wrapper for IO_IMAGE Framework
 
 the purpose of this Gui is to wrap up the IO Image Image treatment Framework for automate task such as :
     - Raw Pixels Visualisation 
